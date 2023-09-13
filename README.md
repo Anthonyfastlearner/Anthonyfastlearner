@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning the world of cyber
 - 💞️ I’m looking to collaborate on educational resources and best practices on cybersecurity and careers
-- 📫 How to reach me here on github
+- 📫 How to reach me here on wamflame@gmail.com
 
 <!---
 Anthonyfastlearner/Anthonyfastlearner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
